@@ -3,7 +3,7 @@
 This is a simple Pomodoro timer application designed to help users manage their time effectively using the Pomodoro technique. The application features a floating timer window that allows users to focus on their tasks while keeping track of work and break intervals.
 
 ## PyInstaller build query
-(.venv) C:\Users\Gowtham Raj\Documents\LLM\Commander\Pomo\pomodoro-timer-app>.venv\Scripts\python.exe -m PyInstaller --onefile --noconsole --strip --clean --add-data "src/resources;resources" --icon=src/resources/pomodoro.ico --exclude-module test --exclude-module tkinter.test src/main.py
+(.venv) C:\Users\Gowtham Raj\Documents\LLM\Commander\Pomo\pomodoro-timer-app>.venv\Scripts\python.exe -m PyInstaller --onefile --noconsole --strip --clean --add-data "src/resources;resources" --icon=src/resources/pomodoro.ico --exclude-module test --exclude-module tkinter.test src/Pomodoro.py
 
 ## Features
 
